@@ -18,11 +18,12 @@ Call the Python script file, ie run.py, python app\run.py runserver
 If test is success, install the service with Nssm:
 <br>
 nssm install, navigate to your bat file, give the service a name
+
 ```
-nnsm install
+nssm install
 ```
 <br>
-Start the service with "name"
+Start the service with the name you made
 <br>
 <br>
 ### Build
