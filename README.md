@@ -1,8 +1,15 @@
-# pywinservice
+# pywinservice, running a simpe Python script as a windows service
 
 # v 1.1
 ## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Make an env
+Make a script i.e like run.py
+Test this:
+Make a bat file, activate the env: ~\pywinservice\Scripts\activate.bat
+Call the Python script file, ie run.py, python app\run.py runserver
+If test is success, install the service with Nssm:
+nssm install, navigate to your bat file, give the service a "name"
+Start the service with "name"
 <br>
 <br>
 ### Build
