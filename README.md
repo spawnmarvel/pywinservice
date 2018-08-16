@@ -1,4 +1,4 @@
-# pywinservice, running a simpe Python script as a windows service
+# pywinservice, running a simple Python script as a windows service
 
 # v 1.1
 ## Getting Started
@@ -8,7 +8,7 @@ Make a script i.e like run.py
 <br>
 Test this:
 <br>
-Make a bat file, that will be started when the service starts (i.e 3 party libraries will starts) activate the env: ~\pywinservice\Scripts\activate.bat
+Make a bat file, that will be started when the service starts (i.e 3 party libraries will start) activate the env: ~\pywinservice\Scripts\activate.bat
 ```
 ~\pywinservice\Scripts\activate.bat
 ```
