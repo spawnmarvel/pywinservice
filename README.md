@@ -29,6 +29,7 @@ nssm install
 <br>
 Start the service with the name you made
 <br>
+This is just a quick and dirty way to run Python scripts as a windows service, but heey, it works and you can automate a lot of scripts!
 <br>
 ### Build
 
