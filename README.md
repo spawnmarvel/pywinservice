@@ -9,7 +9,7 @@ Make a script i.e like run.py
 Test this:
 <br>
 Make a bat file, activate the env: ~\pywinservice\Scripts\activate.bat
-``` bat
+```
 ~\pywinservice\Scripts\activate.bat
 ```
 <br>
@@ -18,7 +18,7 @@ Call the Python script file, ie run.py, python app\run.py runserver
 If test is success, install the service with Nssm:
 <br>
 nssm install, navigate to your bat file, give the service a name
-``` cmd
+```
 nnsm install
 ```
 <br>
