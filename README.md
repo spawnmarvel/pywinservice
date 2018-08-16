@@ -8,12 +8,16 @@ Make a script i.e like run.py
 <br>
 Test this:
 <br>
-Make a bat file, activate the env: ~\pywinservice\Scripts\activate.bat
+Make a bat file, that will be started when the service starts (i.e 3 party libraries will starts) activate the env: ~\pywinservice\Scripts\activate.bat
 ```
 ~\pywinservice\Scripts\activate.bat
 ```
 <br>
-Call the Python script file, ie run.py, python app\run.py runserver
+Call the Python script file, ie run.py python app\run.py runserver
+
+```
+python app\run.py runserver
+```
 <br>
 If test is success, install the service with Nssm:
 <br>
