@@ -21,7 +21,9 @@ python app\run.py runserver
 <br>
 If test is success, install the service with Nssm:
 <br>
-* [Nssm](https://nssm.cc/download)
+<br>
+* [Nssm](https://nssm.cc/download) - NSSM - the Non-Sucking Service Manager
+<br>
 <br>
 nssm install, navigate to your bat file, give the service a name
 
